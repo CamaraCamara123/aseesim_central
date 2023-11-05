@@ -1,0 +1,64 @@
+.cook-section{
+    flex: auto;
+}
+
+.slider-container {
+    height: 100%;
+    width: 90%;
+    margin: auto;
+  }
+  .img-slider {
+    height: 500px;
+    width: 100%;
+  }
+.container{
+    border-radius: 10px;
+    border: 2px gray;
+    outline-style: outset;
+    outline-width: 5px;
+    outline-color: lightsteelblue;
+    margin: auto;
+}
+
+.next .preview{
+    width: 100px;
+    height: 60px;
+    background-color: green;
+    border-radius: 10%;
+}
+
+.preview{
+  left: 20px;
+  z-index: 1;
+}
+
+.next{
+  right: 20px;
+  z-index: 1; 
+}
+.slider {
+    position: relative;
+  }
+
+.caption {
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-60%, -50%);
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+    border-radius: 5px;
+  }
+
+ 
+  
+  
+  
+  
+  
+  
+  

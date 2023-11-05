@@ -1,0 +1,26 @@
+.section-slider{
+    width: 90%;
+    margin: auto;
+    display: contents;
+    outline-style: outset;
+    outline-color: black;
+    box-shadow:none;
+    
+}
+
+.container{
+    display: flex;
+    width: 90%;
+    background-color: green;
+    
+}
+
+.card-img{
+    width: 80%;
+    height: 200px;
+    margin: auto;
+}
+
+.contain-card{
+    color: white !important;
+}
