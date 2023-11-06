@@ -48,15 +48,15 @@ const cardData: cardDataType[] = [
     link: "Voir plus",
   },
   {
-    imgSrc: "/images/presidents/avatar.png",
+    imgSrc: "/images/presidents/kenitra.png",
     heading: "Aseesim Kenitra",
     subheading: "Diarra Likmane Moustapha Aziz",
     link: "Voir plus",
   },
   {
-    imgSrc: "/images/presidents/avatar.png",
+    imgSrc: "/images/presidents/marrakech.png",
     heading: "Aseesim Marrackech",
-    subheading: "Sed ut perspiciatis unde omnis iste",
+    subheading: "Traoré Fatoumata",
     link: "Voir plus",
   },
   {
