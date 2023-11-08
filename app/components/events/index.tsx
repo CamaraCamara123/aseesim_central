@@ -55,7 +55,7 @@ const Cook = () => {
       className="relative"
       id="cook-section"
       style={{
-        backgroundImage: 'url("/images/cook/main.png")',
+        backgroundImage: 'url("/images/static/main.png")',
         backgroundRepeat: "no-repeat",
         opacity:1.5
       }}
