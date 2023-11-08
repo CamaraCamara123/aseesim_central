@@ -14,7 +14,7 @@ interface DataType {
 
 const postData: DataType[] = [
     {
-        profession: 'Président ASEESIM CENTRAL',
+        profession: 'Président ASEESIM CENTRALE',
         name: 'AITE KACOU ARMEL',
         imgSrc: '/images/bureau/pr.jpg',
     },

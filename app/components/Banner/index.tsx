@@ -43,7 +43,7 @@ const Banner = () => {
                   <p className="text-grey lg:text-lg font-normal mb-10 lg:text-start text-center">
                     Chers étudiants, stagiaires, et élèves ivoiriens du Maroc,
                   </p>
-                  <p className="text-grey lg:text-lg font-normal mb-10 lg:text-start text-center">
+                  <p className="parag text-grey lg:text-lg font-normal mb-10 lg:text-start text-center">
                     Nous sommes ravis de vous accueillir au sein de l'ASEESIM,
                     une association étudiante dynamique et engagée, créée dans
                     le but de rassembler et de soutenir la communauté

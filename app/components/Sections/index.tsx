@@ -66,7 +66,7 @@ const cardData: cardDataType[] = [
     link: "Voir plus",
   },
   {
-    imgSrc: "/images/presidents/avatar.png",
+    imgSrc: "/images/presidents/mohamedia.png",
     heading: "Aseesim Mohammedia",
     subheading: "Konan Christ Désiré",
     link: "Voir plus",
@@ -84,7 +84,7 @@ const cardData: cardDataType[] = [
     link: "Voir plus",
   },
   {
-    imgSrc: "/images/presidents/avatar.png",
+    imgSrc: "/images/presidents/tanger.png",
     heading: "Aseesim Tanger",
     subheading: "Dominique Manassé Labi",
     link: "Voir plus",
