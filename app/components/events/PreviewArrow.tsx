@@ -1,5 +1,5 @@
 import "./event.css"
-const PrevArrow = (props) => {
+const PrevArrow = (props:any) => {
     const { className, onClick } = props;
     return (
       <div className={className} onClick={onClick}>

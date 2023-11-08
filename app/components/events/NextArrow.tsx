@@ -1,7 +1,7 @@
 import "./event.css";
 
 
-const NextArrow = (props) => {
+const NextArrow = (props : any) => {
     const { className, onClick } = props;
     return (
       <div className={className} onClick={onClick}>
