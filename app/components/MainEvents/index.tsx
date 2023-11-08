@@ -1,7 +1,7 @@
 "use client"
 import Image from 'next/image';
 import { Fade } from "react-awesome-reveal";
-
+import '../../globals.css'
 
 const Gallery = () => {
     return (
@@ -22,20 +22,20 @@ const Gallery = () => {
                 <div className='grid grid-cols-1 md:grid-cols-12 my-16 sm:space-x-6 space-y-6 md:space-y-0 px-6'>
 
                     <div className='col-span-6 flex justify-center overflow-hidden rounded-3xl'>
-                        <Image src="/images/aseesim/aff2.jpg" alt="pizza-one" width={1000} height={805} className="inner-img"/>
+                        <Image src="/images/events/brunch4.jpg" alt="pizza-one" width={1000} height={805} className="inner-img"/>
                     </div>
 
                     <div className='col-span-6 flex justify-center'>
                         <div className="grid grid-rows-1 grid-flow-row gap-4">
                             <div className="row-span-1 overflow-hidden rounded-3xl">
-                                <Image src="/images/aseesim/aff3.jpg" alt="pizza-two" width={700} height={405} className="inner-img"/>
+                                <Image src="/images/events/brunch1.jpg" alt="main event" width={700} height={405} className="inner-img"/>
                             </div>
                             <div className='grid grid-cols-2 gap-2'>
                                 <div className='overflow-hidden rounded-3xl'>
-                                    <Image src="/images/aseesim/aff4.jpg" alt="pizza-three" width={500} height={405} className="inner-img"/>
+                                    <Image src="/images/events/brunch2.jpg" alt="main event" width={500} height={405} className="inner-img"/>
                                 </div>
                                 <div className='overflow-hidden rounded-3xl'>
-                                    <Image src="/images/aseesim/aff6.jpg" alt="pizza-four" width={500} height={405} className="inner-img"/>
+                                    <Image src="/images/events/brunch3.jpg" alt="main event" width={500} height={405} className="inner-img"/>
                                 </div>
                             </div>
                         </div>

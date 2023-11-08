@@ -124,5 +124,9 @@ html:not([data-scroll="0"]) .navbar {
   margin-bottom: 15px;
 }
 
+.inner-img{
+  filter: brightness(1);
+}
+
 
 

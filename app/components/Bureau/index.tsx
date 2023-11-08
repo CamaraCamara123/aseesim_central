@@ -26,7 +26,7 @@ const postData: DataType[] = [
     {
         profession: 'Chargé académique et social',
         name: 'Getheme Ano',
-        imgSrc: '/images/bureau/ch_acc.png',
+        imgSrc: '/images/bureau/ch_ac.png',
     },
 ]
 
